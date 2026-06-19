@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384984468886",
+    "project_id": "maxatta-rt",
+    "storage_bucket": "maxatta-rt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384984468886:android:dd66547424b2ca7d71e1b7",
+        "android_client_info": {
+          "package_name": "com.example.maxatta_rt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuetNDIOmYdONQyq7n_y0N8mRb8CWxa3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
